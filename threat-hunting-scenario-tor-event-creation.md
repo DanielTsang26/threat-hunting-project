@@ -79,16 +79,6 @@ DeviceFileEvents
 - **Author Contact**: www.linkedin.com/in/daniel-tsang-58a772381
 - **Date**: November 14 2025
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
----
-
-## Additional Notes:
-- **None**
-
 ---
 
 ## Revision History:
