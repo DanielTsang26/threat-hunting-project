@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Daniel Tsang
 - **Author Contact**: www.linkedin.com/in/daniel-tsang-58a772381
-- **Date**: November 14,2025
+- **Date**: November 14 2025
 
 ## Validated By:
 - **Reviewer Name**: 
